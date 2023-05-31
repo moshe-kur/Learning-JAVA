@@ -11,4 +11,6 @@ public class factory {
     {
         return new factory( newSymbol, newNumber);
     }
+
+
 }
