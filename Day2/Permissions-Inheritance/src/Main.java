@@ -2,6 +2,8 @@ import Bank.BankAccount;
 import Office.File;
 import ShopPack.Product;
 import ShopPack.Shop;
+import TransportationPack.Car;
+import TransportationPack.Vehicle;
 
 import java.util.List;
 
@@ -9,11 +11,13 @@ import java.util.List;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
+        Vehicle ven = new Vehicle(120,80,"95");
+        Car car = new Car(140,90,"98");
 
-
-
+        car.printDetails();
+        ven.printDetails();
+        car.increaseAirConditioner();
+        car.printDetails();
     }
 }
 
