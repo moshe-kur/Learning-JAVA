@@ -1,0 +1,120 @@
+Answers
+
+1.   - C) Default (Package-Private) 
+2.  - B) Protected (and Public)
+3. - C) Only if the subclass is in the same package as the superclass 
+4.  A) Public
+5. B) No
+6.    - C) Default (Package-Private) 
+7. B) No
+8.   - A) Public 
+9. B) No
+10. B) No
+
+
+
+
+Questions
+
+
+1. **Question 1**: What is the default access modifier for a class member if no access modifier is specified? 
+
+   - A) Public 
+
+   - B) Protected 
+
+   - C) Default (Package-Private) 
+
+   - D) Private 
+
+  
+
+2. **Question 2**: Which access modifier allows a class member to be accessible within the same package and its subclasses? 
+
+   - A) Public 
+
+   - B) Protected 
+
+   - C) Default (Package-Private) 
+
+   - D) Private 
+
+  
+
+3. **Question 3**: In Java, can a subclass in a different package access a protected member from its superclass? 
+
+   - A) Yes, always 
+
+   - B) No, never 
+
+   - C) Only if the subclass is in the same package as the superclass 
+
+   - D) Only if the subclass is in a different package from the superclass and is a subclass of the superclass 
+
+  
+
+4. **Question 4**: Which access modifier allows the widest accessibility to a class member? 
+
+   - A) Public 
+
+   - B) Protected 
+
+   - C) Default (Package-Private) 
+
+   - D) Private 
+
+  
+
+5. **Question 5**: Can a private member of a superclass be accessed directly by a subclass? 
+
+   - A) Yes 
+
+   - B) No 
+
+  
+
+6. **Question 6**: If a class does not specify an access modifier, what is the default access level? 
+
+   - A) Public 
+
+   - B) Protected 
+
+   - C) Default (Package-Private) 
+
+   - D) Private 
+
+  
+
+7. **Question 7**: In Java, can a subclass override a private method of its superclass? 
+
+   - A) Yes 
+
+   - B) No 
+
+  
+
+8. **Question 8**: Which access modifier allows a class member to be accessible from anywhere, even outside the package? 
+
+   - A) Public 
+
+   - B) Protected 
+
+   - C) Default (Package-Private) 
+
+   - D) Private 
+
+  
+
+9. **Question 9**: Can a subclass increase the access level of an overridden method in the superclass? 
+
+   - A) Yes 
+
+   - B) No 
+
+  
+
+10. **Question 10**: In Java, can a class be declared as both abstract and final at the same time? 
+
+    - A) Yes 
+
+    - B) No 
