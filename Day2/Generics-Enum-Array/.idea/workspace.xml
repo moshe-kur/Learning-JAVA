@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40ef12ff-0c45-44df-acb0-38a0c2ad1542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EnumPack/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnumPack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericsPack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Clothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/‏‏moshe-work/java/Learning/Day2/Permissions-Inheritance-interface",
-    "onboarding.tips.debug.path": "C:/‏‏moshe-work/java/Learning/Day2/Generics-Enum-Array/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/‏‏moshe-work/java/Learning/Day2/Permissions-Inheritance-interface&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/‏‏moshe-work/java/Learning/Day2/Generics-Enum-Array/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Array" />
       <recent name="genericsPack" />
     </key>
   </component>
