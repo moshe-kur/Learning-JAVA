@@ -4,7 +4,7 @@ package Array;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        
+
         Product[] products =   {
                 new Electronics("computer", 565, "i5 irisx", "HP", 2500),
                 new Electronics("phone", 888, "Samsung S21", "Samsung", 4000),

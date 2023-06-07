@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d625e522-06de-4ba5-aa71-4d704e97a861" name="Changes" comment="Polymorphism and Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/BinaryFilePack/BinaryFileFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryFilePack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilePack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilePack/fileFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Generics-Enum-Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day2/Generics-Enum-Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day2/Generics-Enum-Array/src/Array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day2/Generics-Enum-Array/src/Array/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />

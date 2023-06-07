@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="971f2dff-a4d4-4163-b2cc-ecb868b5c737" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/MySql/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/MySql/src/MySqlPack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4/MySql/src/MySqlPack/Mysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Training/src/DialogPack/as.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Training/src/DialogPack/as.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Training/src/DialogPack/sss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Training/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/Generics-Enum-Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/Generics-Enum-Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2/Generics-Enum-Array/src/Array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/Generics-Enum-Array/src/Array/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/Polymorphism-Exception-Files/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/Polymorphism-Exception-Files/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3/Polymorphism-Exception-Files/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3/Polymorphism-Exception-Files/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +46,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/‏‏moshe-work/java/Learning/Day1-Class & Package",
-    "onboarding.tips.debug.path": "C:/‏‏moshe-work/java/FirstLesson/src/Main.java"
+    "onboarding.tips.debug.path": "C:/‏‏moshe-work/java/FirstLesson/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
