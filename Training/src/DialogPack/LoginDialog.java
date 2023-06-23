@@ -3,7 +3,7 @@ package DialogPack;
 import javax.swing.*;
 import java.awt.event.*;
 
-public class as extends JDialog {
+public class LoginDialog extends JDialog {
     private JPanel contentPane;
     private JButton buttonOK;
     private JButton buttonCancel;
@@ -13,7 +13,7 @@ public class as extends JDialog {
     private JLabel WrongName;
     private JLabel WrongPassword;
 
-    public as() {
+    public LoginDialog() {
         setContentPane(contentPane);
         setModal(true);
         getRootPane().setDefaultButton(buttonOK);
@@ -51,8 +51,8 @@ public class as extends JDialog {
             if (this.NameTextField.getText().equals("moshe")){
                 WrongName.setVisible(false);
                 if (PasswordField.getText().equals("1234")){
-                    sss sss = new sss();
-                    sss.getClass();
+                    InputDialog InputDialog = new InputDialog();
+                    InputDialog.getClass();
 
                     dispose();
                 }
@@ -73,7 +73,7 @@ public class as extends JDialog {
     }
 
     public static void main(String[] args) {
-        as dialog = new as();
+        LoginDialog dialog = new LoginDialog();
         dialog.pack();
         dialog.setVisible(true);
 
